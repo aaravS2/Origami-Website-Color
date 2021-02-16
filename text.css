@@ -1,0 +1,62 @@
+p{
+    text-align: center;
+    color: #fdf3ff16;
+}
+font{
+    color: chocolate;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+
+.one{
+    display: flex;
+    justify-content:center;
+    background-color:#160;
+}
+.one1{
+    display: flex;
+    background-color: #f556;
+    text-align: center;
+    justify-content: center;
+}
+.img1{
+    display: flex;
+    background-color: #ffa500;
+   justify-content: center;
+    border:#261875;;
+}
+.img2{
+    display: flex;
+    background-color: #8fbc85;
+   
+    justify-content: center;
+}
+.img3{
+    display: flex;
+    background-color: #ff8fff;
+   
+    justify-content: center;
+}
+.img4{
+    display: flex;
+    background-color:#269;
+   
+    justify-content: center;
+}
+.img5{
+    display: flex;
+    background-color: #8715;
+   
+    justify-content: center;
+}
+.img6{
+    display: flex;
+    background-color: #221;
+   
+    justify-content: center;
+}
